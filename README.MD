@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/voa-logo.png" width="200" alt="Eraya Assist Logo" />
+  <img src="./voa-logo.png" width="200" alt="Eraya Assist Logo" />
 </p>
 
 <h1 align="center">Welcome to Eraya Assist's Official GitHub</h1>
